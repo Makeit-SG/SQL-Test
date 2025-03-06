@@ -230,7 +230,7 @@ You can then use any ClickHouse client to execute the test questions and verify 
 
 ## 4. Instructions for Candidates
 
-*   **Environment:** You should use ClickHouse for this test. You can use a local ClickHouse instance or a cloud-based service. Provide the SQL code as your answer.
+*   **Environment:** You should use ClickHouse for this test. You can use a local ClickHouse instance or a cloud-based service. Provide the SQL code as your answer.Share a Github Repo with README on how to run the project to vikash@makeit.sg
 *   **Data Loading:** The provided SQL script contains the table schemas and sample data. Execute this script in your ClickHouse environment to create the tables and load the data.
 *   **Assumptions:** If you need to make any assumptions to answer a question, clearly state them in your submission.
 *   **Performance (Optional):** Where applicable, consider how you might optimize your queries for performance in ClickHouse (e.g., using appropriate data types, indexes, or materialized views).
