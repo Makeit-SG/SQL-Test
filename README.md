@@ -1,5 +1,4 @@
 
-```markdown
 # ClickHouse SQL Take-Home Test - E-commerce Analytics
 
 This repository contains a take-home SQL test designed for assessing the skills of SQL developers, specifically within the context of ClickHouse. The test focuses on complex joins, data aggregation, and data cleaning techniques required for e-commerce analytics.
@@ -241,8 +240,3 @@ You can then use any ClickHouse client to execute the test questions and verify 
 *   **Bonus Questions:** The bonus questions are optional but provide an opportunity to demonstrate advanced SQL skills and problem-solving abilities.
 *   **Event Log Table (for Bonus Question 2):** If you choose to attempt Bonus Question 2, you will need to create the `EventLog` table and populate it with sample data. The schema for this table is provided in the solution section for that question.
 *   **Explain your approach:** For the bonus questions, especially, please provide a brief explanation of your approach and any challenges you faced.
-
-## 6. Contribution
-
-Contributions to this repository are welcome! Please feel free to submit pull requests with improvements to the database schema, sample data, test questions, or solutions.
-```
